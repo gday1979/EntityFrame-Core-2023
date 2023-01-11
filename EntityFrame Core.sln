@@ -3,11 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.ADO.NET", "01.ADO.NET", "{7445AB09-E08B-47A8-A264-E7DF81D19F9D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Entity Framework Introduction", "01.Entity Framework Introduction", "{7445AB09-E08B-47A8-A264-E7DF81D19F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Database First", "02. Database First\02. Database First.csproj", "{88B6A134-8D22-4A9A-B546-0325B73B75A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Employees Full Information", "03. Employees Full Information\03. Employees Full Information.csproj", "{D16D256C-110F-4B5E-866F-DB590549C6CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADO.NET", "ADO.NET", "{0B3401EF-041B-48A2-8070-EEA1B8F3A8C1}"
 EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B6A134-8D22-4A9A-B546-0325B73B75A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B6A134-8D22-4A9A-B546-0325B73B75A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B6A134-8D22-4A9A-B546-0325B73B75A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B6A134-8D22-4A9A-B546-0325B73B75A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16D256C-110F-4B5E-866F-DB590549C6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16D256C-110F-4B5E-866F-DB590549C6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16D256C-110F-4B5E-866F-DB590549C6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16D256C-110F-4B5E-866F-DB590549C6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88B6A134-8D22-4A9A-B546-0325B73B75A4} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
+		{D16D256C-110F-4B5E-866F-DB590549C6CF} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1CC71B4E-944F-40B9-BE0C-C22125D050E4}
