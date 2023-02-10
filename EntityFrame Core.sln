@@ -11,31 +11,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Employees Full Informat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADO.NET", "ADO.NET", "{0B3401EF-041B-48A2-8070-EEA1B8F3A8C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Employees with Salary Over 50 000", "04. Employees with Salary Over 50 000\04. Employees with Salary Over 50 000.csproj", "{F9B1AEFD-B4D9-4317-AEF7-54DFCEC47577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Employees with Salary Over 50 000", "04. Employees with Salary Over 50 000\04. Employees with Salary Over 50 000.csproj", "{F9B1AEFD-B4D9-4317-AEF7-54DFCEC47577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Employees from Research and Development", "05. Employees from Research and Development\05. Employees from Research and Development.csproj", "{15F3791C-9E10-4857-A279-CD2F8283BAF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Employees from Research and Development", "05. Employees from Research and Development\05. Employees from Research and Development.csproj", "{15F3791C-9E10-4857-A279-CD2F8283BAF1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Entity Relations", "02.Entity Relations", "{D8282476-C6B1-405A-BC9B-7719343FCE4A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.LINQ", "03.LINQ", "{6F81E833-37B1-40AD-B99D-2DDEDA926096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. MusicHub Database", "01. MusicHub Database\01. MusicHub Database.csproj", "{AA61BC3B-D5B8-4A9A-88D5-59562450C53B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. MusicHub Database", "01. MusicHub Database\01. MusicHub Database.csproj", "{AA61BC3B-D5B8-4A9A-88D5-59562450C53B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Albums Info", "02. Albums Info\02. Albums Info.csproj", "{3A0F695A-035B-4450-9919-B689811A63C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Albums Info", "02. Albums Info\02. Albums Info.csproj", "{3A0F695A-035B-4450-9919-B689811A63C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Songs Above Duration", "03. Songs Above Duration\03. Songs Above Duration.csproj", "{2364C693-1DF8-4967-B6C5-1316C10B0294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Songs Above Duration", "03. Songs Above Duration\03. Songs Above Duration.csproj", "{2364C693-1DF8-4967-B6C5-1316C10B0294}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Advanced Querying", "04.Advanced Querying", "{89D198E6-F041-45F6-A62F-3BF7282954E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Age Restriction", "2. Age Restriction\2. Age Restriction.csproj", "{23FB05F3-1210-4055-AB1E-FEEB7872088F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Age Restriction", "2. Age Restriction\2. Age Restriction.csproj", "{23FB05F3-1210-4055-AB1E-FEEB7872088F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Golden Books", "3. Golden Books\3. Golden Books.csproj", "{CB458DDB-5DBC-4789-BC25-A139552A4880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Golden Books", "3. Golden Books\3. Golden Books.csproj", "{CB458DDB-5DBC-4789-BC25-A139552A4880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Books by Price", "4. Books by Price\4. Books by Price.csproj", "{E8B03539-01F6-46EA-822C-F896D58150F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Books by Price", "4. Books by Price\4. Books by Price.csproj", "{E8B03539-01F6-46EA-822C-F896D58150F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Not Released In", "5. Not Released In\5. Not Released In.csproj", "{0E4FC288-2A71-4B96-AA2A-56692A441016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Not Released In", "5. Not Released In\5. Not Released In.csproj", "{0E4FC288-2A71-4B96-AA2A-56692A441016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Book Titles by Category", "6. Book Titles by Category\6. Book Titles by Category.csproj", "{C72E24BC-CFE0-49EA-A4AC-9270CAC61F79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Book Titles by Category", "6. Book Titles by Category\6. Book Titles by Category.csproj", "{C72E24BC-CFE0-49EA-A4AC-9270CAC61F79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.JSON", "05.JSON", "{99B377A6-F767-4CAE-A873-7E28A381D441}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.XML", "06.XML", "{40AE9F80-7F05-4F69-9107-09B6BACF332D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity Core Exam", "Entity Core Exam", "{59A8E4CC-44DE-4250-AB60-E624591C682F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
