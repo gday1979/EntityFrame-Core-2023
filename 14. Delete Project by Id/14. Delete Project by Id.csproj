@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_04._Employees_with_Salary_Over_50_0000</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_14._Delete_Project_by_Id</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
