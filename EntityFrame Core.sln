@@ -5,8 +5,6 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Entity Framework Introduction", "01.Entity Framework Introduction", "{7445AB09-E08B-47A8-A264-E7DF81D19F9D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUni", "02. Database First\SoftUni.csproj", "{88B6A134-8D22-4A9A-B546-0325B73B75A4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Employees Full Information", "03. Employees Full Information\03. Employees Full Information.csproj", "{D16D256C-110F-4B5E-866F-DB590549C6CF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADO.NET", "ADO.NET", "{0B3401EF-041B-48A2-8070-EEA1B8F3A8C1}"
@@ -49,19 +47,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Addresses by Town", "08
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoNet", "AdoNet\AdoNet.csproj", "{ECB80374-CF27-4043-9F07-C8532B960D60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Employee 147", "09. Employee 147\09. Employee 147.csproj", "{CE81ECFD-0574-404B-B96C-FE4596BAEB9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Employee 147", "09. Employee 147\09. Employee 147.csproj", "{CE81ECFD-0574-404B-B96C-FE4596BAEB9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Departments with More Than 5 Employees", "10. Departments with More Than 5 Employees\10. Departments with More Than 5 Employees.csproj", "{F3ADE3AA-A771-4E93-A082-590BDFD4047B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Departments with More Than 5 Employees", "10. Departments with More Than 5 Employees\10. Departments with More Than 5 Employees.csproj", "{F3ADE3AA-A771-4E93-A082-590BDFD4047B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Find Latest 10 Projects", "11. Find Latest 10 Projects\11. Find Latest 10 Projects.csproj", "{ABA754C3-E903-4D89-935F-CBAF82B2E569}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Find Latest 10 Projects", "11. Find Latest 10 Projects\11. Find Latest 10 Projects.csproj", "{ABA754C3-E903-4D89-935F-CBAF82B2E569}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Increase Salaries", "12. Increase Salaries\12. Increase Salaries.csproj", "{0AF8FC0A-534C-48C5-94D1-0489B9EC526B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Increase Salaries", "12. Increase Salaries\12. Increase Salaries.csproj", "{0AF8FC0A-534C-48C5-94D1-0489B9EC526B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Find Employees by First Name Starting With Sa", "13. Find Employees by First Name Starting With Sa\13. Find Employees by First Name Starting With Sa.csproj", "{B07BD320-38D2-4D1F-AA8D-B37A4EC98954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Find Employees by First Name Starting With Sa", "13. Find Employees by First Name Starting With Sa\13. Find Employees by First Name Starting With Sa.csproj", "{B07BD320-38D2-4D1F-AA8D-B37A4EC98954}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Delete Project by Id", "14. Delete Project by Id\14. Delete Project by Id.csproj", "{D905D2B2-28DA-4D7C-A6F3-B8F48CF531A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Delete Project by Id", "14. Delete Project by Id\14. Delete Project by Id.csproj", "{D905D2B2-28DA-4D7C-A6F3-B8F48CF531A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Remove Town", "15. Remove Town\15. Remove Town.csproj", "{13187C98-7942-4B2D-BC0F-ADA8EFF0773B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15. Remove Town", "15. Remove Town\15. Remove Town.csproj", "{13187C98-7942-4B2D-BC0F-ADA8EFF0773B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUni", "SoftUni\SoftUni.csproj", "{97A4643E-2790-4553-8422-6B1730B00BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoiteRecepti", "MoiteRecepti\MoiteRecepti.csproj", "{16E7F770-2BAA-4D50-8696-378A8B2D987C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,10 +71,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{88B6A134-8D22-4A9A-B546-0325B73B75A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88B6A134-8D22-4A9A-B546-0325B73B75A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88B6A134-8D22-4A9A-B546-0325B73B75A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88B6A134-8D22-4A9A-B546-0325B73B75A4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D16D256C-110F-4B5E-866F-DB590549C6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D16D256C-110F-4B5E-866F-DB590549C6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D16D256C-110F-4B5E-866F-DB590549C6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -157,12 +155,19 @@ Global
 		{13187C98-7942-4B2D-BC0F-ADA8EFF0773B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13187C98-7942-4B2D-BC0F-ADA8EFF0773B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13187C98-7942-4B2D-BC0F-ADA8EFF0773B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A4643E-2790-4553-8422-6B1730B00BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A4643E-2790-4553-8422-6B1730B00BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A4643E-2790-4553-8422-6B1730B00BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A4643E-2790-4553-8422-6B1730B00BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E7F770-2BAA-4D50-8696-378A8B2D987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E7F770-2BAA-4D50-8696-378A8B2D987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E7F770-2BAA-4D50-8696-378A8B2D987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E7F770-2BAA-4D50-8696-378A8B2D987C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{88B6A134-8D22-4A9A-B546-0325B73B75A4} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
 		{D16D256C-110F-4B5E-866F-DB590549C6CF} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
 		{15F3791C-9E10-4857-A279-CD2F8283BAF1} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
 		{AA61BC3B-D5B8-4A9A-88D5-59562450C53B} = {6F81E833-37B1-40AD-B99D-2DDEDA926096}
@@ -184,6 +189,8 @@ Global
 		{B07BD320-38D2-4D1F-AA8D-B37A4EC98954} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
 		{D905D2B2-28DA-4D7C-A6F3-B8F48CF531A1} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
 		{13187C98-7942-4B2D-BC0F-ADA8EFF0773B} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
+		{97A4643E-2790-4553-8422-6B1730B00BDB} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
+		{16E7F770-2BAA-4D50-8696-378A8B2D987C} = {7445AB09-E08B-47A8-A264-E7DF81D19F9D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1CC71B4E-944F-40B9-BE0C-C22125D050E4}
