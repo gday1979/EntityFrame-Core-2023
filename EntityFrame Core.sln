@@ -65,29 +65,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUni", "SoftUni\SoftUni.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoiteRecepti", "MoiteRecepti\MoiteRecepti.csproj", "{16E7F770-2BAA-4D50-8696-378A8B2D987C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Student System", "1. Student System\1. Student System.csproj", "{856DA3AD-2F60-4629-905D-F606B55622E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Student System", "1. Student System\1. Student System.csproj", "{856DA3AD-2F60-4629-905D-F606B55622E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Football Betting", "3. Football Betting\3. Football Betting.csproj", "{B3A26322-0E73-4438-B258-E5F8EB83138B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Football Betting", "3. Football Betting\3. Football Betting.csproj", "{B3A26322-0E73-4438-B258-E5F8EB83138B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Released Before Date", "7. Released Before Date\7. Released Before Date.csproj", "{987E316D-B69D-4A90-81D7-EDB960984C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Released Before Date", "7. Released Before Date\7. Released Before Date.csproj", "{987E316D-B69D-4A90-81D7-EDB960984C93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Author Search", "8. Author Search\8. Author Search.csproj", "{DD6BF9BB-1B47-4450-9970-43CAD896050B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Author Search", "8. Author Search\8. Author Search.csproj", "{DD6BF9BB-1B47-4450-9970-43CAD896050B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Book Search", "9. Book Search\9. Book Search.csproj", "{B513C291-F4EA-424A-83C9-5759E89CA104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Book Search", "9. Book Search\9. Book Search.csproj", "{B513C291-F4EA-424A-83C9-5759E89CA104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Book Search by Author", "10. Book Search by Author\10. Book Search by Author.csproj", "{FD225218-4C68-4947-A8A3-6F12EA4E8515}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Book Search by Author", "10. Book Search by Author\10. Book Search by Author.csproj", "{FD225218-4C68-4947-A8A3-6F12EA4E8515}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Count Books", "11. Count Books\11. Count Books.csproj", "{0990A348-5334-4F15-AFDD-E6418AD551AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Count Books", "11. Count Books\11. Count Books.csproj", "{0990A348-5334-4F15-AFDD-E6418AD551AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Total Book Copies", "12. Total Book Copies\12. Total Book Copies.csproj", "{4FF9815E-DCCF-4636-9970-ED75610420DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Total Book Copies", "12. Total Book Copies\12. Total Book Copies.csproj", "{4FF9815E-DCCF-4636-9970-ED75610420DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Profit by Category", "13. Profit by Category\13. Profit by Category.csproj", "{3E01879B-53DB-446A-8994-0129DF174CB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Profit by Category", "13. Profit by Category\13. Profit by Category.csproj", "{3E01879B-53DB-446A-8994-0129DF174CB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Most Recent Books", "14. Most Recent Books\14. Most Recent Books.csproj", "{20736376-7C2B-466A-AE73-ADA294DA9E2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Most Recent Books", "14. Most Recent Books\14. Most Recent Books.csproj", "{20736376-7C2B-466A-AE73-ADA294DA9E2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Increase Prices", "15. Increase Prices\15. Increase Prices.csproj", "{AC04C1AA-640E-489D-A33A-8071BC449988}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15. Increase Prices", "15. Increase Prices\15. Increase Prices.csproj", "{AC04C1AA-640E-489D-A33A-8071BC449988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Remove Books", "16. Remove Books\16. Remove Books.csproj", "{CE82D05F-754F-4FF5-83EC-AF676225CF56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16. Remove Books", "16. Remove Books\16. Remove Books.csproj", "{CE82D05F-754F-4FF5-83EC-AF676225CF56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

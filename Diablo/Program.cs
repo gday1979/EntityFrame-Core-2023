@@ -1,4 +1,4 @@
-﻿namespace SoftUni
+﻿namespace Diablo
 {
     internal class Program
     {
