@@ -63,7 +63,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15. Remove Town", "15. Remo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoiteRecepti", "MoiteRecepti\MoiteRecepti.csproj", "{16E7F770-2BAA-4D50-8696-378A8B2D987C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Student System", "1. Student System\1. Student System.csproj", "{856DA3AD-2F60-4629-905D-F606B55622E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_ Student System", "1. Student System\P01_ Student System.csproj", "{856DA3AD-2F60-4629-905D-F606B55622E4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Football Betting", "3. Football Betting\3. Football Betting.csproj", "{B3A26322-0E73-4438-B258-E5F8EB83138B}"
 EndProject
@@ -89,7 +89,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16. Remove Books", "16. Rem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUni", "SoftUni\SoftUni.csproj", "{9EE8B12C-4955-436F-B0BA-7FE3969FE8B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Database First", "02.Database First\02.Database First.csproj", "{B1638D3F-FE62-4A81-83BD-294E5106F0E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Database First", "02.Database First\02.Database First.csproj", "{B1638D3F-FE62-4A81-83BD-294E5106F0E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

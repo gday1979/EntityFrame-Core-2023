@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1._Student_System.Data
+namespace _1._Student_System.Data.Models.Enums
 {
-    internal class DbContext
+    public enum ContentType
     {
+        Application,
+        Pdf,
+        Zip
     }
 }
